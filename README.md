@@ -6,13 +6,13 @@ I build machine learning systems and data products across atmospheric modeling, 
 
 **[Visit my portfolio](https://thomasdeitel.github.io/portfolio/)** · [Resume](https://thomasdeitel.github.io/portfolio/resume/) · [LinkedIn](https://www.linkedin.com/in/thomasdeitel)
 
-## 1st Place — ACP California Southern Region III
+## 1st Place — American College of Physicians
 
-**Affiliate Members — Research/QI · 2026**
+**California Southern Region III · Affiliate Members — Research/QI · 2026**
 
-My research, **“Distinguishing Sepsis from Cytokine Release Syndrome After CAR-T Cell Therapy: A Machine Learning Approach Using Real-World EHR Data,”** won first place in the Affiliate Members Research/QI competition at ACP California Southern Region III. The winners announcement identifies **Thomas Deitel, UCSD**.
+My research, **“Distinguishing Sepsis from Cytokine Release Syndrome After CAR-T Cell Therapy: A Machine Learning Approach Using Real-World EHR Data,”** won first place in the Affiliate Members Research/QI competition at the American College of Physicians, California Southern Region III. The winners announcement identifies **Thomas Deitel, UCSD**.
 
-**[Explore the award-winning research and ACP presentation materials →](https://thomasdeitel.github.io/portfolio/projects/sepsis-crs/)**
+**[Explore the award-winning research and American College of Physicians presentation materials →](https://thomasdeitel.github.io/portfolio/projects/sepsis-crs/)**
 
 <img src="https://raw.githubusercontent.com/thomasdeitel/portfolio/main/projects/sepsis-crs/acp-first-place-announcement.jpg" alt="ACP California Southern Region III winners announcement: Thomas Deitel, UCSD, first place in Affiliate Members Research/QI." width="720">
 
