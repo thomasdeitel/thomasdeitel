@@ -6,6 +6,20 @@ I build machine learning systems and data products across atmospheric modeling, 
 
 **[Visit my portfolio](https://thomasdeitel.github.io/portfolio/)** · [Resume](https://thomasdeitel.github.io/portfolio/resume/) · [LinkedIn](https://www.linkedin.com/in/thomasdeitel)
 
+## 1st Place — ACP California Southern Region III
+
+**Affiliate Members — Research/QI · 2026**
+
+My research, **“Distinguishing Sepsis from Cytokine Release Syndrome After CAR-T Cell Therapy: A Machine Learning Approach Using Real-World EHR Data,”** won first place in the Affiliate Members Research/QI competition at ACP California Southern Region III. The winners announcement identifies **Thomas Deitel, UCSD**.
+
+**[Explore the award-winning research and ACP presentation materials →](https://thomasdeitel.github.io/portfolio/projects/sepsis-crs/)**
+
+<img src="https://raw.githubusercontent.com/thomasdeitel/portfolio/main/projects/sepsis-crs/acp-first-place-announcement.jpg" alt="ACP California Southern Region III winners announcement: Thomas Deitel, UCSD, first place in Affiliate Members Research/QI." width="720">
+
+<img src="https://raw.githubusercontent.com/thomasdeitel/portfolio/main/projects/sepsis-crs/acp-presentation.jpg" alt="Thomas Deitel presenting his sepsis versus CRS machine learning research at ACP." width="420">
+
+The research repository, source code, and patient-level data are not publicly available due to UC Health data-sharing restrictions. Public presentation materials and aggregate results are available on my portfolio.
+
 ## Featured project: Under the Radar
 
 ### Navy Atmosphere Radar Forecaster · UC San Diego i4NS
